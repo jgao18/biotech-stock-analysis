@@ -1,0 +1,251 @@
+XOMA,XOMA 358,phase2,08/31/2016
+KPTI,Selinexor - STORM,phase2,09/06/2016
+BLRX,BL-8040,phase2,09/07/2016
+CLCD,Lasmiditan - SAMURAI,phase3,09/09/2016
+ARLZ,YOSPRALA (PA32540/PA8140) ,pdufa,09/14/2016
+TGTX,TG-1101,phase1b,09/14/2016
+ACHN,Odalasvir (ACH-3102), simeprevir and ALS-335,phase2a,09/23/2016
+ALNY,ALN-GO1,phase1.5,09/24/2016
+DRRX,Remoxy,pdufa,09/25/2016
+PTIE,Remoxy,pdufa,09/25/2016
+ABUS,ARB-1467,phase2,09/30/2016
+ACRS,A-101,phase2,09/30/2016
+ACRX,ARX-04 (SAP303),phase3,09/30/2016
+AERI,Roclatan - Mercury trials,phase3,09/30/2016
+AERI,Rhopressa,ndaFiling,09/30/2016
+ALDR,ALD403 ,phase2b,09/30/2016
+ARRY,Binimetinib - COLUMBUS,phase3,09/30/2016
+ATRS,VIBEX QuickShot,ndaFiling,09/30/2016
+CYTX,ECCO-50 cellular therapeutic,phase2,09/30/2016
+DPRX,Locilex,phase3,09/30/2016
+DRRX,DUR-928 ,phase1b,09/30/2016
+ESPR,Bempedoic acid (ETC-1002-035),phase2,09/30/2016
+FOLD,Migalastat HCl monotherapy (012),phase3,09/30/2016
+GNCA,GEN-003,phase2b,09/30/2016
+GWPH,Epidiolex,phase3,09/30/2016
+INFI,Duvelisib - DUO,phase3,09/30/2016
+KERX,Auryxia,sndaFiling,09/30/2016
+KITE,KTE-C19 (ZUMA-1),phase2,09/30/2016
+MESO,MPC-300-IV,phase2,09/30/2016
+MRNS,Ganaxolone,phase2,09/30/2016
+MSTX,ANX-188 - Vepoloxamer,phase3,09/30/2016
+NVAX,RSV vaccine - Resolve trial,phase3,09/30/2016
+OGXI,Custirsen  in combination with Jevtana (cabazitaxel)- AFFINITY,phase3,09/30/2016
+RPRX,Enclomiphene,phase2,09/30/2016
+RTRX,Sparsentan (DUET) ,phase2,09/30/2016
+THLD,Tarloxotinib,phase2,09/30/2016
+THLD,Tarloxotinib,phase2,09/30/2016
+TNXP,TNX-102 SL ,phase3,09/30/2016
+VICL,ASP0113 Vaccine,phase2,09/30/2016
+VRTX,ORKAMBI,pdufa,09/30/2016
+CERU,CRLX101 and paclitaxel,phase2,10/07/2016
+CLDX,Glembatumumab vedotin,phase2,10/08/2016
+EGLT,Egalet-001,pdufa,10/14/2016
+WINT,Aerosurf,phase2a,10/14/2016
+MDVN,XTANDI,pdufa,10/22/2016
+PRQR,QR-010 ,phase1b,10/27/2016
+AMRN,Vascepa REDUCE-IT outcomes trial,,10/31/2016
+ANTH,Blisibimod,phase3,10/31/2016
+INNL,Cogenzia,phase3,10/31/2016
+INNL,XaraColl ,ndaFiling,10/31/2016
+OPXA,Tovaxin (Tcelna),phase2b,10/31/2016
+PTN,Bremelanotide,phase3,10/31/2016
+TBPH,Revefenacin,phase3,10/31/2016
+THERF,Ibalizumab ,phase3,10/31/2016
+EIGR,Lonafarnib - LOWR HDV – 2,phase2,11/11/2016
+EIGR,Lonafarnib - LOWR HDV – 4,phase2,11/11/2016
+EIGR,Lonafarnib - LOWR HDV – 3,phase2,11/11/2016
+MDCO,PCSKsi - ORION-1 ,phase2,11/15/2016
+MDCO,MDCO-216 - MILANO-PILOT,phase2,11/15/2016
+LXRX,Telotristat etiprate,pdufaPriorityReview,11/30/2016
+RIGL,Fostamatinib ,phase3,11/30/2016
+BLUE,LentiGlobin ,phase1.5,12/03/2016
+BLUE,LentiGlobin - HGB-206,phase1.5,12/03/2016
+SPPI,Apaziquone,pdufa,12/11/2016
+DVAX,HEPLISAV-B ,pdufa,12/15/2016
+CEMP,Solithera - oral,pdufa,12/27/2016
+AAAP,Lutathera,pdufa,12/28/2016
+CEMP,Solithera - intravenous,pdufa,12/28/2016
+BLRX,BL-8040,phase2,12/30/2016
+ACAD,Pimavanserin,phase2,12/31/2016
+ACHN,ACH-4471,phase2,12/31/2016
+ACOR,Dalfampridine,phase3,12/31/2016
+ACRS,A-101,phase3,12/31/2016
+ACRX,Zalviso,phase3,12/31/2016
+ADMS,ADS-5102 - EASE LID trial,ndaFiling,12/31/2016
+ADRO,CRS-207 and GVAX Pancreas and nivolumab - STELLAR trial ,phase2b,12/31/2016
+AEZS,Macimorelin Acetate - Macrilen,phase3,12/31/2016
+AEZS,Zoptrex,phase3,12/31/2016
+AGRX,Twirla,phase3,12/31/2016
+ALKS,ALKS 5461,phase2,12/31/2016
+ALNY,ALN-TTRsc02,phase1,12/31/2016
+ANTH,Sollpura (liprotamase),phase3,12/31/2016
+APRI,Vitaros,ndaFiling,12/31/2016
+ARDM,Pulmaquin -  ORBIT-3 and ORBIT-4,phase3,12/31/2016
+ARGS,AGS-003 ,phase2,12/31/2016
+ARIA,Iclusig (ponatinib),phase2,12/31/2016
+ARNA,APD334,phase2,12/31/2016
+AVIR,Vapendavir - SPIRITUS trial,phase2b,12/31/2016
+AXON,Nelotanserin ,phase2,12/31/2016
+BDSI,Clonidine gel,phase2b,12/31/2016
+BLPH,INOpulse delivery device,phase2,12/31/2016
+CASC,ONT-380 and T-DM1,phase1b,12/31/2016
+CATB,CAT-1004 ,phase2,12/31/2016
+CCXI,CCX872,phase1b,12/31/2016
+CCXI,CCX168 ,phase2,12/31/2016
+CEMP,Solithromycin,phase2,12/31/2016
+CERC,CERC-501,phase2,12/31/2016
+CERU,CRLX101 in Combination with Chemotherapy and Radiation,phase2,12/31/2016
+CHRS,CHS-1420,phase3,12/31/2016
+CLBS,CLBS03,phase2,12/31/2016
+CORI,Twirla,phase3,12/31/2016
+CRBP,Resunab,phase2,12/31/2016
+CRBP,Resunab,phase2,12/31/2016
+CRMD,Neutrolin - LOCK-IT 100,phase3,12/31/2016
+CTRV,CMX157,phase2,12/31/2016
+CYCC,Sapacitabine (SEAMLESS),phase3,12/31/2016
+CYNA,APL-130277 - CTH-300,phase3,12/31/2016
+CYTR,Aldoxorubicin with doxorubicin,phase3,12/31/2016
+CYTR,Aldoxorubicin,phase2,12/31/2016
+CYTR,Aldoxorubicin,phase2a,12/31/2016
+DMTX,DTX101,phase1.5,12/31/2016
+DRNA,DCR-MYC,phase1.5,12/31/2016
+EARS,AM-101 - TACTT3,phase3,12/31/2016
+EIGR,Subcutaneous exendin,phase2,12/31/2016
+EXEL,Recurrent endometrial cancer,phase2,12/31/2016
+FLXN,Zilretta - FX006,ndaFiling,12/31/2016
+FOLD,ATB200,phase1.5,12/31/2016
+FOMX,FDX103,phase2,12/31/2016
+GALE,NeuVax in combination with Herceptin,phase2b,12/31/2016
+GBIM,GS-4774 - 1401 trial,phase2,12/31/2016
+GBIM,GI-6207,phase2,12/31/2016
+GTXI,Enobosarm ,phase2,12/31/2016
+GTXI,Enobosarm ,phase2,12/31/2016
+GWPH,Epidiolex,phase3,12/31/2016
+GWPH,Sativex,phase2,12/31/2016
+HALO,PEGPH20 ,phase2,12/31/2016
+HRTX,HTX-019,ndaFiling,12/31/2016
+HTBX,HS-410,phase2,12/31/2016
+HTBX,HS-110,phase1b,12/31/2016
+HZNP,ACTIMMUNE,phase3,12/31/2016
+IDRA,IMO-2125,phase1.5,12/31/2016
+IMGN,Kadcyla KRISTINE trial,phase3,12/31/2016
+INCY,Ruxolitinib,phase2,12/31/2016
+INSY,Buprenorphine,phase3,12/31/2016
+IONS,IONIS-FXIRx,phase2,12/31/2016
+IONS,IONIS-STAT3-2.5Rx,phase2,12/31/2016
+IRWD,Linaclotide Colonic Release,phase2b,12/31/2016
+ITCI,ITI-007-302,phase3,12/31/2016
+ITEK,Trabodenoson,phase3,12/31/2016
+KPTI,Selinexor - STOMP,phase1.5,12/31/2016
+KPTI,Selinexor SOPRA,phase2,12/31/2016
+KTOV,KIT-302,ndaFiling,12/31/2016
+KURA,Tipifarnib,phase2,12/31/2016
+LIFE,Resolaris,phase1.5,12/31/2016
+MATN,OXi4503 ,phase1.5,12/31/2016
+MATN,CA4P Fosbretabulin,phase2,12/31/2016
+MDGN,NFC-1,phase23,12/31/2016
+MDVN,Enzalutamide,phase2,12/31/2016
+MNOV,Progressive multiple sclerosis (progressive MS),phase2b,12/31/2016
+MRUS,MCLA-128,phase1.5,12/31/2016
+MRUS,MCLA-117,phase1.5,12/31/2016
+NBIX,NBI-98854 (Valbenazine),phase2,12/31/2016
+NDRM,ND0612H (Trial 006),phase2,12/31/2016
+NKTR,Cipro DPI ,phase3,12/31/2016
+NKTR,NKTR-214,phase1.5,12/31/2016
+NVAX,RSV F Vaccine rollover trial ,phase2,12/31/2016
+NVCR,Tumor Treating Fields (TTFields) - PANOVA,phase2,12/31/2016
+OCUL,DEXTENZA,phase3,12/31/2016
+OGXI,Apatorsen Borealis-2,phase2,12/31/2016
+ONCE,SPK-CHM,phase1.5,12/31/2016
+ONCE,SPK-RPE65,blaFiling,12/31/2016
+OPHT,Fovista,phase3,12/31/2016
+OPK,hGH-CTP,phase3,12/31/2016
+OTIC,OTIPRIO,phase2,12/31/2016
+PBYI,Neratinib SUMMIT,phase2,12/31/2016
+PBYI,Neratinib monotherapy with high dose loperamide prophylaxis,phase2,12/31/2016
+PGNX,1404,phase3,12/31/2016
+PLX,PRX-110 ,phase2,12/31/2016
+PLX,PRX-106,phase2,12/31/2016
+PRTO,Vonapanitase (PRT-201) PATENCY-1 ,phase3,12/31/2016
+PTLA,Betrixaban (The APEX Study),ndaFiling,12/31/2016
+PTLA,Cerdulatinib (PRT2070),phase2,12/31/2016
+QURE,AMT-060,phase1.5,12/31/2016
+RARE,KRN23,phase2,12/31/2016
+RARE,UX007 (triheptanoin),phase2,12/31/2016
+RARE,UX007 (triheptanoin),phase3,12/31/2016
+RDHL,RIZAPORT (RHB-103),ndaFiling,12/31/2016
+RDHL,RHB-104 MAP US,phase3,12/31/2016
+RDHL,RHB-104 CEASE-MS,phase2a,12/31/2016
+REPH,Intravenous (IV) meloxicam ,phase3,12/31/2016
+RIGL,Fostamatinib,phase2,12/31/2016
+RNN,Supinoxin,phase1.5,12/31/2016
+RNN,RX-3117,phase1.5,12/31/2016
+RPRX,Proellex,phase2b,12/31/2016
+RPRX,Proellex,phase2,12/31/2016
+RVNC,RT002,phase2,12/31/2016
+RXII,Samcyprone - RXI-SCP-1502,phase2,12/31/2016
+RXII, RXI-109-1402,phase2,12/31/2016
+RXII,Samcyprone - RXI-SCP-1502,phase2,12/31/2016
+RXII,RXI-109-1501,phase1.5,12/31/2016
+SAGE,SAGE-547,phase3,12/31/2016
+SCMP,Lubiprostone,phase3,12/31/2016
+SGYP,Plecanatide,phase3,12/31/2016
+SNGX,SGX301 (synthetic hypericin),phase3,12/31/2016
+TCON,TRC105 and Avastin,phase2,12/31/2016
+TENX,Levosimendan,phase3,12/31/2016
+VSAR,VRS-317 VITAL,phase23,12/31/2016
+VTAE,VTP-38543,phase2,12/31/2016
+VTVT,TTP273 - LOGRA,phase2,12/31/2016
+VYGR,VY-AADC01 ,phase1b,12/31/2016
+XENT,RESOLVE steroid-releasing implant,phase3,12/31/2016
+XLRN,Luspatercept,phase2,12/31/2016
+XLRN,Dalantercept - DART Study,phase2,12/31/2016
+XOMA,XOMA 358,phase2,12/31/2016
+VCEL,MACI ,pdufa,01/03/2017
+TSRO,Rolapitant - intravenous (IV),pdufa,01/11/2017
+INCY,Baricitinib,pdufa,01/19/2017
+BMRN,Cerliponase alfa,pdufa,01/27/2017
+SGYP,Plecanatide,pdufa,01/29/2017
+BTX,AST-OPC1,phase1.5,01/31/2017
+SMMT,Ezutromid,phase2,01/31/2017
+CLVS,Rucaparib ARIEL2,pdufaPriorityReview,02/23/2017
+RDUS,Abaloparatide-SC ,pdufa,03/30/2017
+ACOR,CVT-301,phase3,03/31/2017
+ADHD,MDX (Metadoxine Extended Release (MG01CI)),phase3,03/31/2017
+AFMD,AFM13,phase1b,03/31/2017
+AKAO,Plazomicin - EPIC trial,phase3,03/31/2017
+ARDX,Tenapanor,phase3,03/31/2017
+ARQL,Tivantinib (ARQ 197) METIV-HCC trial,phase3,03/31/2017
+BMRN,PEG-PAL,blaFiling,03/31/2017
+CAPR,CAP-1002 HOPE-Duchenne,phase1.5,03/31/2017
+CAPR,CAP-1002 ALLSTAR ,phase2,03/31/2017
+DERM,Cimzia,phase3,03/31/2017
+EYEG,EGP-437,phase3,03/31/2017
+FGEN,FG-3019,phase2,03/31/2017
+FOLD,SD-101 ,phase3,03/31/2017
+KPTI,Selinexor - SADAL ,phase2b,03/31/2017
+LJPC,LJPC-501,phase3,03/31/2017
+MDCO,CARBAVANCE,ndaFiling,03/31/2017
+NKTR,NKTR-181 ,phase3,03/31/2017
+NKTR,Inhaled Amikacin Solution (BAY41-6551T),phase3,03/31/2017
+OCRX,OCR-002 (IV),phase2b,03/31/2017
+OGXI,Apatorsen and Zytiga - Pacific trial,phase2,03/31/2017
+OMED,Tarextumab - PINNACLE trial,phase2,03/31/2017
+OPK,Factor VIIa-CTP,phase2,03/31/2017
+PBMD,Tarextumab plus platinum chemotherapy and etoposide,phase2,03/31/2017
+PBYI,Neratinib,phase3,03/31/2017
+PGNX,Azedra,phase2b,03/31/2017
+PRTO,Vonapanitase (PRT-201) PATENCY-2,phase3,03/31/2017
+PTCT,Translarna,phase3,03/31/2017
+QURE,AMT-060,phase1.5,03/31/2017
+QURE,AMT-060,phase1.5,03/31/2017
+RIGL,Fostamatinib,phase2,03/31/2017
+RTTR,RP-G28,phase23,03/31/2017
+SUPN,SPN-812,phase2b,03/31/2017
+SYN,SYN-004,phase2b,03/31/2017
+TRVN,Oliceridine (TRV130),phase3,03/31/2017
+WINT,Aerosurf,phase2b,03/31/2017
+XENE,XEN801,phase2,03/31/2017
+ZGNX,ZX008,phase3,03/31/2017
+ZSAN,ZP-Triptan,phase3,03/31/2017
