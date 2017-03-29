@@ -6,7 +6,7 @@ import re
 import datetime
 
 tickers = []
-with open("tickers.txt") as file:
+with open("../output/tickers.txt") as file:
     for line in file:
         line = line.strip() 
         tickers.append(line)
@@ -14,7 +14,7 @@ with open("tickers.txt") as file:
 for ticker in tickers:
     f = urllib.urlopen("https://www.google.com/finance/getprices?i=86400&p=1Y&f=d,o,h,l,c,v&q=" + ticker) # i - 86400/day
     myF = f.read()
-    dataFile = open("historical-stock-data/" + ticker + ".txt", "w")
+    dataFile = open("../historical-stock-data/" + ticker + ".txt", "w")
     dataString = myF.split("\n",6)[6]
     dataString = re.sub(r"TIMEZONE_OFFSET=[^\n]*\n", "", dataString)
     

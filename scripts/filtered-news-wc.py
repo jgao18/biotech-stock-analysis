@@ -24,14 +24,14 @@ import re
 from collections import Counter
 
 text = ""
-with open("filtered-news.txt") as f:
+with open("../output/filtered-news.txt") as f:
     text = f.read()
 
 words = re.findall(r'\w+', text)
 cap_words = [word.upper() for word in words]
 word_counts = Counter(cap_words)
 
-with open("filtered-news-wc.txt", 'w') as f:
+with open("../output/filtered-news-wc.txt", 'w') as f:
     for wcTuple in word_counts.most_common():
         word = wcTuple[0]
         count = wcTuple[1]
