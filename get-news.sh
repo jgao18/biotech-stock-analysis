@@ -1,3 +1,6 @@
+# Retrieves the first 180 headlines from TheStreet for each stock
+# Writes the headlines to news/(ticker).txt
+
 cat tickers.txt | while read ticker
 do
    for i in {0..150..30}

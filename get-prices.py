@@ -1,3 +1,6 @@
+# Retrieves daily prices for the past year from Google Finance for each stock
+# Writes the data to historical-stock-data/(ticker).txt
+
 import urllib
 import re
 import datetime
