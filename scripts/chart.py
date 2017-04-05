@@ -49,7 +49,7 @@ with open("../output/filtered-news.txt") as newsFile:
                         dayCounter+=1
                         prices.append(dataPrice)
                     
-                fig = plt.figure(figsize=(25,10))
+                fig = plt.figure(figsize=(30,10))
                 plt.plot(prices,marker='o')
                 plt.axvline(x=newsDay, color='r', linestyle='--')
                 fig.suptitle("\n".join(textwrap.wrap(filter(lambda x: x in printable, headline), 80)) + '\nCatalyst Date: ' + cataDate, fontsize=12)
